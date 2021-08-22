@@ -33,6 +33,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-sohail24&show_icons=true&locale=en&layout=compact" alt="abdul-sohail24" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-sohail24&show_icons=true&locale=en" alt="abdul-sohail24" /></p>
 
 
