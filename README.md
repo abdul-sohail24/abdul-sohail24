@@ -33,8 +33,8 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-sohail24&show_icons=true&locale=en" alt="abdul-sohail24" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-sohail24&show_icons=true&locale=en&layout=compact" alt="abdul-sohail24" /></p>
 
 <!---
 abdul-sohail24/abdul-sohail24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
