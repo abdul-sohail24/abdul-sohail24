@@ -36,8 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-sohail24&show_icons=true&locale=en" alt="abdul-sohail24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-sohail24&" alt="abdul-sohail24" /></p>
-
 <!---
 abdul-sohail24/abdul-sohail24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
