@@ -23,9 +23,8 @@
 <p align="left">
 <a href="https://twitter.com/abdul_sohail24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdul_sohail24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdulsohail24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulsohail24" height="30" width="40" /></a>
-<a href="https://fb.com/abdul.sohail.923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul.sohail.923" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul_sohail24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_sohail24" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abdul_sohail24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abdul_sohail24" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abdul_sohail24/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="abdul_sohail24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
