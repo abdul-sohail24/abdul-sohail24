@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Sohail</h1>
-<h3 align="center">A Passionate Web and Android Developer, Pre-final Year student at Indian Institute of Information Technology, Dharwad</h3>
+<h3 align="center">Aspiring Software Developer, Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-sohail24&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-sohail24" /> </p>
 
 - 🔭 I’m currently working on **ReactJs**
 
-- 🌱 I’m currently learning **Android App Development using Flutter**
+- 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on **Website projects**
+- 👯 I’m looking to collaborate on **Software Development projects**
 
 - 🤝 I’m looking for help with **Flutter and Dart**
 
